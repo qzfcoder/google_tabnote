@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TabNote</title>
+  <link rel="stylesheet" href="sidepanel.css">
+</head>
+<body>
+  <main class="app-shell">
+    <header class="topbar">
+      <div class="brand-row">
+        <div class="brand-mark"><span></span><span></span><span></span></div>
+        <div class="brand-copy"><p class="kicker">RESEARCH DESK</p><h1>TabNote</h1></div>
+        <button id="themeButton" class="icon-button" title="切换深色模式">◐</button>
+      </div>
+      <div class="tab-context">
+        <div class="tab-favicon">↗</div>
+        <div class="context-copy"><div class="note-switch-row"><select id="noteSwitcher" class="note-switcher" aria-label="切换笔记"><option value="">正在读取笔记…</option></select><button id="renameNoteButton" class="rename-note-button" title="重命名当前笔记">✎</button></div><span id="tabUrl">-</span></div>
+        <span id="saveState" class="save-state"><i></i>本地保存</span>
+      </div>
+    </header>
+
+    <section class="workspace-head">
+      <div><p class="eyebrow">NOTE</p><h2>把重要内容留下来</h2></div>
+      <div class="head-count"><span id="wordCount">0 字</span><span class="head-separator"></span><span id="updatedAt">尚未编辑</span></div>
+    </section>
+
+    <section class="editor-toolbar">
+      <span class="editor-section-title">EDITOR</span>
+      <div class="mode-switch"><button id="editModeButton" class="mode-button active">编辑</button><button id="previewModeButton" class="mode-button">预览</button></div>
+    </section>
+
+    <section class="editor-wrap">
+      <textarea id="editor" class="source-editor" spellcheck="false" aria-hidden="true"></textarea>
+      <div id="visualEditor" class="markdown-body visual-editor hidden" contenteditable="true" spellcheck="true" data-placeholder="在网页中选中文字后右键打开 TabNote 操作，也可以直接粘贴图片"></div>
+      <article id="preview" class="markdown-body hidden"></article>
+      <div id="emptyState" class="empty-state"><div class="empty-orbit"><span>✦</span></div><strong>这份笔记还是空的</strong><span>选中文字后右键选择 TabNote 操作，也可以粘贴图片</span></div>
+    </section>
+
+    <footer class="bottom-bar">
+      <div class="footer-actions"><button id="templateButton" class="text-button">模板</button><button id="archiveButton" class="text-button">归档</button><button id="clearButton" class="text-button danger">清空</button><button id="exportButton" class="text-button">导出</button></div>
+      <button id="libraryButton" class="library-button">笔记库 <span>↗</span></button>
+    </footer>
+
+    <section id="libraryPanel" class="library-panel hidden">
+      <div class="library-header"><div><span class="eyebrow">ARCHIVE LIBRARY</span><h2>全局笔记库</h2><p>关闭标签页或手动归档的研究记录</p></div><button id="closeLibraryButton" class="close-button">×</button></div>
+      <input id="searchInput" class="search-input" placeholder="搜索标题、网站或内容…">
+      <div class="archive-tools"><label><input id="selectAllArchives" type="checkbox"> 全选</label><span id="archiveSelectionCount">未选择</span><div class="archive-tool-actions"><button id="exportSelectedArchives" class="archive-export-button" disabled>导出所选</button><button id="deleteSelectedArchives">删除所选</button></div></div>
+      <div id="archiveList" class="archive-list"></div>
+    </section>
+  </main>
+
+  <div id="exportModal" class="modal-backdrop hidden">
+    <section class="export-modal" role="dialog" aria-modal="true" aria-labelledby="exportTitle">
+      <div class="modal-heading"><div><span class="eyebrow">EXPORT NOTE</span><h2 id="exportTitle">选择导出方式</h2></div><button id="closeExportButton" class="close-button">×</button></div>
+      <p class="modal-intro">内容只在本机处理。PDF 会打开浏览器打印面板，选择「另存为 PDF」即可。</p>
+      <div class="export-grid">
+        <button class="export-card" data-export="markdown"><span class="export-icon">MD</span><span><b>Markdown</b><small>纯文本，最轻量</small></span><em>→</em></button>
+        <button class="export-card" data-export="inline"><span class="export-icon">MD+</span><span><b>Markdown + 图片</b><small>图片内嵌，单文件</small></span><em>→</em></button>
+        <button class="export-card" data-export="word"><span class="export-icon word">W</span><span><b>Word 文档</b><small>兼容 .doc 打开编辑</small></span><em>→</em></button>
+        <button class="export-card" data-export="pdf"><span class="export-icon pdf">PDF</span><span><b>打印为 PDF</b><small>适合分享与归档</small></span><em>→</em></button>
+        <button class="export-card export-card-wide" data-export="zip"><span class="export-icon zip">ZIP</span><span><b>笔记包 ZIP</b><small>Markdown + 独立图片文件夹</small></span><em>→</em></button>
+      </div>
+    </section>
+  </div>
+
+  <div id="toast" class="toast"></div>
+  <script src="sidepanel.js"></script>
+</body>
+</html>

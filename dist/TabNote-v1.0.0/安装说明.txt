@@ -1,0 +1,10 @@
+TabNote Chrome 扩展安装说明
+
+1. 解压 TabNote-v1.0.0-LoadUnpacked.zip 到一个固定文件夹。
+2. Chrome 地址栏打开 chrome://extensions
+3. 打开右上角“开发者模式”。
+4. 点击“加载已解压的扩展程序”。
+5. 选择解压后包含 manifest.json 的 TabNote 文件夹。
+6. 安装后可在扩展程序菜单中固定 TabNote；打开网页，点击插件图标即可使用侧边栏。
+
+注意：ZIP 不是可直接安装的 .crx。Chrome 的“加载已解压的扩展程序”要求选择解压后的目录。
