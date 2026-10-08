@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "TabNote",
+  "version": "1.0.0",
+  "description": "A local research desk for clipping, annotating, screenshots and Markdown notes by browser tab.",
+  "permissions": ["sidePanel", "activeTab", "scripting", "tabs", "storage", "commands", "contextMenus"],
+  "host_permissions": [],
+  "background": { "service_worker": "background.js", "type": "module" },
+  "action": { "default_title": "Open TabNote" },
+  "side_panel": { "default_path": "sidepanel.html" },
+  "commands": { "open-side-panel": { "suggested_key": { "default": "Ctrl+Shift+M", "mac": "Command+Shift+M" }, "description": "Open the Markdown side panel" } }
+}

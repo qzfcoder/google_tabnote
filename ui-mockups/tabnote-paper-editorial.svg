@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1400" viewBox="0 0 900 1400">
+<rect width="900" height="1400" fill="#eeeae1"/>
+<rect x="42" y="34" width="816" height="1332" rx="28" fill="#fbfaf7" stroke="#d8d0c4" stroke-width="2"/>
+<text x="82" y="96" font-family="Arial,sans-serif" font-size="15" letter-spacing="3" fill="#a14c3c">TABNOTE · RESEARCH DESK</text>
+<text x="82" y="155" font-family="Georgia,serif" font-size="43" font-weight="700" fill="#22211f">AI 产品调研笔记</text>
+<text x="82" y="190" font-family="Arial,sans-serif" font-size="14" fill="#77726b">我的自定义名称 · 2026年10月6日</text>
+<circle cx="783" cy="114" r="29" fill="#f1e1d9"/><text x="773" y="122" font-family="Arial" font-size="22" fill="#a14c3c">✎</text>
+<line x1="82" y1="222" x2="818" y2="222" stroke="#d8d0c4"/>
+<rect x="82" y="250" width="736" height="58" rx="12" fill="#f1eee8"/>
+<text x="105" y="286" font-family="Arial,sans-serif" font-size="15" fill="#34312d">当前笔记　⌄</text><text x="667" y="286" font-family="Arial,sans-serif" font-size="14" fill="#8a8279">本地保存 ✓</text>
+<g font-family="Arial,sans-serif" font-size="14">
+<rect x="82" y="334" width="92" height="42" rx="10" fill="#a14c3c"/><text x="107" y="361" fill="white">❝ 引用</text>
+<rect x="184" y="334" width="92" height="42" rx="10" fill="#f7eadf"/><text x="207" y="361" fill="#8d4639">✦ 摘要</text>
+<rect x="286" y="334" width="92" height="42" rx="10" fill="#f7eadf"/><text x="309" y="361" fill="#8d4639">▣ 截图</text>
+<rect x="388" y="334" width="112" height="42" rx="10" fill="#282522"/><text x="413" y="361" fill="white">导出　⌄</text>
+</g>
+<text x="82" y="440" font-family="Arial,sans-serif" font-size="12" letter-spacing="2" fill="#b0a79c">MARKDOWN NOTE</text>
+<line x1="82" y1="455" x2="818" y2="455" stroke="#e1dbd2"/>
+<text x="82" y="520" font-family="Georgia,serif" font-size="30" font-weight="700" fill="#282522">产品判断</text>
+<text x="82" y="570" font-family="Arial,sans-serif" font-size="18" fill="#38342f">浏览器内完成资料收集，最大的优势是减少切换成本。</text>
+<rect x="82" y="620" width="736" height="148" rx="5" fill="#f7eadf"/>
+<rect x="82" y="620" width="6" height="148" fill="#a14c3c"/>
+<text x="112" y="660" font-family="Georgia,serif" font-size="19" fill="#4e413b">“一个标签页对应一份笔记，站内跳转不重置。”</text>
+<text x="112" y="710" font-family="Arial,sans-serif" font-size="14" fill="#806f65">来源：产品需求文档 · tabnote.app</text>
+<rect x="82" y="812" width="352" height="220" rx="10" fill="#e7e1d7"/>
+<rect x="98" y="828" width="320" height="170" rx="6" fill="#c6b7a5"/><circle cx="260" cy="912" r="42" fill="#ede6dc"/><text x="216" y="1068" font-family="Arial,sans-serif" font-size="13" fill="#777067">网页截图 · 本地保存</text>
+<text x="82" y="1110" font-family="Arial,sans-serif" font-size="13" fill="#8a8279">模板　引用块　黄色标记　纯文字</text>
+<line x1="82" y1="1200" x2="818" y2="1200" stroke="#e1dbd2"/>
+<text x="82" y="1250" font-family="Arial,sans-serif" font-size="14" fill="#77726b">笔记库　　归档　　清空</text>
+<text x="700" y="1250" font-family="Arial,sans-serif" font-size="14" fill="#a14c3c">12,480 字</text>
+<text x="450" y="1325" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#a14c3c">01 · 纸张编辑部风</text>
+</svg>

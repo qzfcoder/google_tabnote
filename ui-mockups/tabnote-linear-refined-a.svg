@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1400" viewBox="0 0 900 1400">
+<rect width="900" height="1400" fill="#f5f7fa"/>
+<rect x="48" y="38" width="804" height="1320" rx="22" fill="#ffffff" stroke="#e7eaf0"/>
+<text x="84" y="96" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#20232a">TabNote</text>
+<text x="736" y="96" font-family="Arial,sans-serif" font-size="13" fill="#8b92a0">⌘ K　◐</text>
+<text x="84" y="157" font-family="Arial,sans-serif" font-size="12" letter-spacing="1.8" fill="#8b92a0">CURRENT NOTE</text>
+<rect x="84" y="178" width="732" height="62" rx="10" fill="#f8f9fb" stroke="#e5e8ee"/>
+<text x="108" y="216" font-family="Arial,sans-serif" font-size="16" font-weight="600" fill="#20232a">AI 产品调研笔记　⌄</text>
+<text x="710" y="216" font-family="Arial,sans-serif" font-size="13" fill="#6b5ce7">✎ 重命名</text>
+<text x="84" y="274" font-family="Arial,sans-serif" font-size="14" fill="#8b92a0">当前 Tab · example.com/research</text>
+<line x1="84" y1="308" x2="816" y2="308" stroke="#edf0f3"/>
+<text x="84" y="360" font-family="Arial,sans-serif" font-size="12" letter-spacing="1.8" fill="#a0a6b0">EDITOR</text>
+<text x="84" y="416" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#20232a">产品判断</text>
+<text x="84" y="464" font-family="Arial,sans-serif" font-size="17" fill="#454b55">浏览器内完成资料收集，减少窗口切换成本。</text>
+<rect x="84" y="512" width="732" height="126" rx="10" fill="#f0edff"/>
+<text x="110" y="554" font-family="Arial,sans-serif" font-size="17" fill="#5146ae">“一个标签页对应一份独立笔记。”</text>
+<text x="110" y="596" font-family="Arial,sans-serif" font-size="13" fill="#8279c3">来源 · 产品需求文档</text>
+<rect x="84" y="674" width="732" height="235" rx="12" fill="#f8f9fb" stroke="#edf0f3"/>
+<rect x="104" y="694" width="692" height="168" rx="8" fill="#dfe3ea"/>
+<text x="104" y="885" font-family="Arial,sans-serif" font-size="13" fill="#8b92a0">网页截图 · 本地保存</text>
+<rect x="84" y="955" width="732" height="72" rx="12" fill="#ffffff" stroke="#e5e8ee"/>
+<text x="108" y="983" font-family="Arial,sans-serif" font-size="12" fill="#8b92a0">CLIP TO NOTE</text>
+<rect x="108" y="993" width="96" height="24" rx="6" fill="#eeecff"/><text x="130" y="1010" font-family="Arial,sans-serif" font-size="12" fill="#6557d9">引用</text>
+<rect x="212" y="993" width="96" height="24" rx="6" fill="#f5f6f8"/><text x="234" y="1010" font-family="Arial,sans-serif" font-size="12" fill="#69717d">标记</text>
+<rect x="316" y="993" width="96" height="24" rx="6" fill="#f5f6f8"/><text x="338" y="1010" font-family="Arial,sans-serif" font-size="12" fill="#69717d">纯文字</text>
+<text x="650" y="1010" font-family="Arial,sans-serif" font-size="12" fill="#8b92a0">附来源　●</text>
+<line x1="84" y1="1086" x2="816" y2="1086" stroke="#edf0f3"/>
+<text x="84" y="1132" font-family="Arial,sans-serif" font-size="14" fill="#8b92a0">模板　　归档　　清空</text>
+<rect x="534" y="1098" width="94" height="40" rx="9" fill="#f5f6f8"/><text x="557" y="1123" font-family="Arial,sans-serif" font-size="13" fill="#515866">▣ 截图</text>
+<rect x="638" y="1098" width="94" height="40" rx="9" fill="#f5f6f8"/><text x="661" y="1123" font-family="Arial,sans-serif" font-size="13" fill="#515866">✦ 摘要</text>
+<rect x="742" y="1098" width="74" height="40" rx="9" fill="#20232a"/><text x="758" y="1123" font-family="Arial,sans-serif" font-size="13" fill="white">导出</text>
+<text x="84" y="1208" font-family="Arial,sans-serif" font-size="14" fill="#6b5ce7">笔记库 ↗</text>
+<text x="700" y="1208" font-family="Arial,sans-serif" font-size="13" fill="#8b92a0">12,480 字　已保存</text>
+<text x="450" y="1310" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#6b5ce7">03A · 分组工具栏版</text>
+</svg>

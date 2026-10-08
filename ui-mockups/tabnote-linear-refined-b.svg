@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1400" viewBox="0 0 900 1400">
+<rect width="900" height="1400" fill="#f5f7fa"/>
+<rect x="48" y="38" width="804" height="1320" rx="22" fill="#ffffff" stroke="#e7eaf0"/>
+<text x="84" y="96" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#20232a">TabNote</text><text x="736" y="96" font-family="Arial,sans-serif" font-size="13" fill="#8b92a0">⌘ K　◐</text>
+<text x="84" y="157" font-family="Arial,sans-serif" font-size="12" letter-spacing="1.8" fill="#8b92a0">NOTE</text>
+<text x="84" y="204" font-family="Arial,sans-serif" font-size="33" font-weight="700" fill="#20232a">AI 产品调研笔记</text>
+<text x="84" y="236" font-family="Arial,sans-serif" font-size="14" fill="#8b92a0">当前 Tab · example.com/research</text>
+<text x="706" y="204" font-family="Arial,sans-serif" font-size="13" fill="#6b5ce7">✎ 重命名</text>
+<line x1="84" y1="272" x2="816" y2="272" stroke="#edf0f3"/>
+<rect x="84" y="302" width="732" height="56" rx="10" fill="#f8f9fb" stroke="#e5e8ee"/><text x="108" y="337" font-family="Arial,sans-serif" font-size="14" fill="#555d69">切换笔记　⌄</text><text x="716" y="337" font-family="Arial,sans-serif" font-size="13" fill="#6b5ce7">已保存</text>
+<text x="84" y="416" font-family="Arial,sans-serif" font-size="12" letter-spacing="1.8" fill="#a0a6b0">EDITOR</text>
+<text x="84" y="470" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="#20232a">产品判断</text>
+<text x="84" y="516" font-family="Arial,sans-serif" font-size="17" fill="#454b55">浏览器内完成资料收集，减少窗口切换成本。</text>
+<rect x="84" y="566" width="732" height="128" rx="10" fill="#f0edff"/><text x="110" y="610" font-family="Arial,sans-serif" font-size="17" fill="#5146ae">“一个标签页对应一份独立笔记。”</text><text x="110" y="654" font-family="Arial,sans-serif" font-size="13" fill="#8279c3">来源 · 产品需求文档</text>
+<rect x="84" y="730" width="732" height="230" rx="12" fill="#f4f5f7"/><rect x="104" y="750" width="692" height="166" rx="8" fill="#dfe3ea"/><text x="104" y="938" font-family="Arial,sans-serif" font-size="13" fill="#8b92a0">网页截图 · 本地保存</text>
+<rect x="84" y="1000" width="732" height="74" rx="12" fill="#ffffff" stroke="#e5e8ee"/>
+<text x="108" y="1030" font-family="Arial,sans-serif" font-size="12" fill="#8b92a0">快速操作</text>
+<circle cx="238" cy="1037" r="18" fill="#eeecff"/><text x="230" y="1043" font-family="Arial,sans-serif" font-size="15" fill="#6557d9">❝</text><text x="264" y="1042" font-family="Arial,sans-serif" font-size="13" fill="#515866">引用</text>
+<circle cx="365" cy="1037" r="18" fill="#f5f6f8"/><text x="358" y="1043" font-family="Arial,sans-serif" font-size="15" fill="#69717d">✦</text><text x="391" y="1042" font-family="Arial,sans-serif" font-size="13" fill="#515866">摘要</text>
+<circle cx="490" cy="1037" r="18" fill="#f5f6f8"/><text x="483" y="1043" font-family="Arial,sans-serif" font-size="15" fill="#69717d">▣</text><text x="516" y="1042" font-family="Arial,sans-serif" font-size="13" fill="#515866">截图</text>
+<circle cx="615" cy="1037" r="18" fill="#20232a"/><text x="607" y="1043" font-family="Arial,sans-serif" font-size="15" fill="white">↓</text><text x="641" y="1042" font-family="Arial,sans-serif" font-size="13" fill="#515866">导出</text>
+<line x1="84" y1="1128" x2="816" y2="1128" stroke="#edf0f3"/>
+<text x="84" y="1174" font-family="Arial,sans-serif" font-size="14" fill="#8b92a0">模板　　归档　　清空</text><text x="716" y="1174" font-family="Arial,sans-serif" font-size="14" fill="#6b5ce7">笔记库</text>
+<text x="84" y="1240" font-family="Arial,sans-serif" font-size="13" fill="#8b92a0">选区格式：引用块　⌄</text><text x="660" y="1240" font-family="Arial,sans-serif" font-size="13" fill="#8b92a0">附来源 ●</text>
+<text x="450" y="1310" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#6b5ce7">03B · 快速操作条版</text>
+</svg>

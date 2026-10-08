@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1400" viewBox="0 0 900 1400">
+<rect width="900" height="1400" fill="#e9e4dc"/>
+<rect x="56" y="48" width="788" height="1295" rx="26" fill="#f8f5ef" stroke="#d7cec0"/>
+<text x="92" y="112" font-family="Arial,sans-serif" font-size="16" letter-spacing="2" fill="#5b7c73">TABNOTE</text><text x="92" y="166" font-family="Georgia,serif" font-size="38" font-weight="700" fill="#343b38">我的研究桌</text>
+<rect x="92" y="202" width="716" height="64" rx="16" fill="#fffefb" stroke="#d9d1c6"/><text x="116" y="241" font-family="Arial,sans-serif" font-size="15" fill="#4d5651">AI 产品调研笔记　⌄</text><text x="690" y="241" font-family="Arial,sans-serif" font-size="13" fill="#74958a">重命名 ✎</text>
+<g font-family="Arial,sans-serif" font-size="14">
+<rect x="92" y="300" width="102" height="42" rx="21" fill="#628b7e"/><text x="122" y="326" fill="white">❝ 引用</text>
+<rect x="206" y="300" width="102" height="42" rx="21" fill="#f7e39c"/><text x="235" y="326" fill="#695b2d">✦ 摘要</text>
+<rect x="320" y="300" width="102" height="42" rx="21" fill="#dbe9e3"/><text x="350" y="326" fill="#52756c">▣ 截图</text>
+<rect x="434" y="300" width="102" height="42" rx="21" fill="#e9d2cc"/><text x="464" y="326" fill="#985b50">导出</text>
+</g>
+<text x="92" y="410" font-family="Arial,sans-serif" font-size="13" fill="#a49b90">今天的摘录</text>
+<g transform="rotate(-2 265 600)"><rect x="92" y="460" width="346" height="238" rx="4" fill="#fff1a8"/><text x="122" y="510" font-family="Georgia,serif" font-size="25" font-weight="700" fill="#514d35">重点发现</text><text x="122" y="556" font-family="Arial,sans-serif" font-size="16" fill="#5f5a40">一个标签页对应一份笔记。</text><text x="122" y="592" font-family="Arial,sans-serif" font-size="16" fill="#5f5a40">站内跳转不会重置内容。</text><text x="122" y="646" font-family="Arial,sans-serif" font-size="13" fill="#948b63">黄色标记 · 10:24</text></g>
+<g transform="rotate(2 610 600)"><rect x="466" y="452" width="342" height="252" rx="4" fill="#dcece5"/><text x="496" y="505" font-family="Georgia,serif" font-size="25" font-weight="700" fill="#3e5f56">来源摘录</text><text x="496" y="552" font-family="Arial,sans-serif" font-size="16" fill="#4e6a62">浏览器内完成资料收集，</text><text x="496" y="583" font-family="Arial,sans-serif" font-size="16" fill="#4e6a62">减少切换窗口的成本。</text><text x="496" y="650" font-family="Arial,sans-serif" font-size="13" fill="#719186">引用块 · example.com</text></g>
+<rect x="92" y="758" width="716" height="240" rx="8" fill="#e6e0d7"/><rect x="112" y="778" width="676" height="180" rx="4" fill="#c7d0cf"/><circle cx="450" cy="866" r="48" fill="#f5f0e7"/><text x="116" y="1035" font-family="Arial,sans-serif" font-size="13" fill="#90877c">截图卡片 · 点击预览</text>
+<rect x="92" y="1060" width="716" height="68" rx="14" fill="#fffefb" stroke="#d9d1c6"/><text x="116" y="1102" font-family="Arial,sans-serif" font-size="14" fill="#7f776d">模板　引用块　标记　纯文字</text>
+<line x1="92" y1="1182" x2="808" y2="1182" stroke="#d9d1c6"/><text x="92" y="1235" font-family="Arial,sans-serif" font-size="14" fill="#857d73">笔记库　　归档　　清空</text><text x="716" y="1235" font-family="Arial,sans-serif" font-size="14" fill="#628b7e">12,480 字</text>
+<text x="450" y="1310" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#628b7e">04 · 手账便签风</text>
+</svg>
